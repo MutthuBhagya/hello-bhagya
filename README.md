@@ -1,1 +1,3 @@
-# hello-muttu
+# maven-project
+
+Simple Maven Project
